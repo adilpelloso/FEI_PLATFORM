@@ -1,0 +1,7 @@
+FEI_PLATFORM/
+├── database/
+│   └── migrations/
+├── docs/
+├── flutterflow/
+├── edge_functions/
+└── README.md
